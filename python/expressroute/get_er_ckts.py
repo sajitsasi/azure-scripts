@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 ############################################################################
 # This is demo code and not intended for use in production.  As such this
 # code demonstrates how to get query azure circuits and gather bandwidth
@@ -8,7 +9,6 @@
 # Author: Sajit Sasi
 # Author Email: sajit.sasi@microsoft.com
 ############################################################################
-#!/usr/bin/env python3
 
 from azure.common.client_factory import get_client_from_cli_profile
 from azure.common.client_factory import get_azure_cli_credentials
