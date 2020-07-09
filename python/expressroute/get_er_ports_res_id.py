@@ -2,7 +2,7 @@
 ############################################################################
 # This is demo code and not intended for use in production.  As such this
 # code demonstrates how to get query azure ER Direct ports and gather
-# utilization for said ports.
+# resource ids for the ports.
 #
 # USE AT YOUR OWN RISK!!!
 #
