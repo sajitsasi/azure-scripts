@@ -1,0 +1,9 @@
+azure-core
+azure-eventhub
+certifi
+chardet
+idna
+requests
+six
+uamqp
+urllib3

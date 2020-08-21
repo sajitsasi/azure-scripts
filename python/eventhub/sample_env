@@ -1,0 +1,9 @@
+# Sample Environment variables to set to produce/consume events to/from 
+# Event Hub.  Run this before running the scripts as 'source .env'
+
+export EVENT_HUBS_NAMESPACE="<namespace name not FQDN>"
+export EVENT_HUBS_POLICY="<SAS Policy Name>"
+export EVENT_HUBS_KEY="<SAS Key>"
+export EVENT_HUBS_CONN_STR="<SAS Connection String>"
+export EVENT_HUB_NAME="<event hub or topic in namespace>"
+export CONSUMER_GROUP="<Consumer Group default value is '\$Default'>"
