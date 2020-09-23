@@ -11,8 +11,10 @@ code except as a starting point
 
 ## Instructions
 1. Download the git repo to your directory:
-   `git clone https://github.com/sajitsasi/azure-scripts.git`
-   `cd azure-scripts/python/eventhub`
+   ```
+   git clone https://github.com/sajitsasi/azure-scripts.git
+   cd azure-scripts/python/eventhub
+   ```
 2. Modify `sample_env` with correct values:
    ```
    EVENT_HUBS_NAMESPACE="your_event_hubs_namespace_name_without_FQDN"
